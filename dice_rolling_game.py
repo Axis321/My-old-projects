@@ -1,5 +1,4 @@
-#did this myslef :)
-#i am soo fucking proud of myself.
+
 import random
 
 did = True
@@ -17,4 +16,5 @@ while did == True:
         exit()
 
     else:
+
         print("invalid input")
