@@ -5,7 +5,7 @@ while True:
     stuff = random.choice(list)
 
     player = input("rock paper or scissors = r/s/p : ")
-    if player not in ("r","s","p"): #got this"not in" ffrom chat gpt
+    if player not in ("r","s","p"): 
         print("chose a valdi option")
         break
     player_status = 0
@@ -70,5 +70,6 @@ while True:
 
     
  
+
 
     
